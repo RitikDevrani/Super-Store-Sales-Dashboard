@@ -101,7 +101,7 @@ Super-Store-Sales-Dashboard
 ├── README.md
 
 ## How to Use the Dashboard
-1. Clone the repository
+1 Clone the repository
 
     https://github.com/your-username/Super-Store-Sales-Dashboard.git
 
