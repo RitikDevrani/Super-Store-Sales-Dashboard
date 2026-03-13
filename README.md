@@ -103,7 +103,7 @@ Super-Store-Sales-Dashboard
 ## How to Use the Dashboard
 1 Clone the repository
 
-    https://github.com/your-username/Super-Store-Sales-Dashboard.git
+    https://github.com/RitikDevrani/Super-Store-Sales-Dashboard.git
 
 2. Open the dashboard
 
